@@ -1,2 +1,2 @@
 # TestRepo
-Repository for me to learn aboute using git in different environments.
+Repository for me to learn about using git in different environments.
